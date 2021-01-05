@@ -1,5 +1,5 @@
 <!-- PROJECT SHIELDS -->
-[![Issues][issues-shield]](https://github.com/UnluckyMeene/simple-counter/issues)
+[![Issues][issues-shield]](https://github.com/matteo-minerva/simple-counter/issues)
 [![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/m-minerva/)
 
 
@@ -15,7 +15,7 @@
     <br />
     <a href="https://simple-counter.meene.vercel.app/">Live Demo</a>
     ·
-    <a href="https://github.com/UnluckyMeene/simple-counter/issues">Segnala bug</a>
+    <a href="https://github.com/matteo-minerva/simple-counter/issues">Segnala bug</a>
   </p>
 </p>
 
@@ -46,7 +46,7 @@ Profilo start2impact: [https://talent.start2impact.it/profile/matteo-minerva](ht
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[issues-shield]: https://img.shields.io/github/issues/UnluckyMeene/air-quality-checker/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/UnluckyMeene/repo/issues
+[issues-shield]: https://img.shields.io/github/issues/matteo-minerva/air-quality-checker/repo.svg?style=for-the-badge
+[issues-url]: https://github.com/matteo-minerva/repo/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/UnluckyMeene
+[linkedin-url]: https://linkedin.com/in/matteo-minerva
